@@ -1,0 +1,36 @@
+body
+{
+    font-size: 12px;  
+    background-color: black;
+}
+#bloc
+{
+    background-color: darkolivegreen;
+    border: 2px solid white;
+    box-shadow: 6px 6px 0px brown;
+    width: 550px;
+    height: 70px;
+    border-radius: 20px/10px;
+    padding: 50px;
+    overflow: auto;
+    margin: 150px 200px 150px 350px;
+}
+div label
+{
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px cornflowerblue;
+}
+div input
+{
+    padding: 3px;
+    margin: 12px;
+}
+h1
+{
+    text-decoration: underline;
+    font-style: italic;
+    color: whitesmoke;
+    font-weight: normal;
+}
